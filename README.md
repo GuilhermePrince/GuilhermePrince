@@ -121,7 +121,7 @@ Tenho interesse em desenvolvimento de software, sistemas embarcados e soluções
 
 ## 🌐 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](LIKEDIN DO GUINGAS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-prince/)
 
 ---
 
